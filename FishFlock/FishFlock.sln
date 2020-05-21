@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishFlock", "FishFlock.csproj", "{713BE12D-E931-22A7-D7E5-21C79E467AAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishFlock.Editor", "FishFlock.Editor.csproj", "{1B6A653C-3D09-8279-11A9-4B1A365EA02E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{713BE12D-E931-22A7-D7E5-21C79E467AAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713BE12D-E931-22A7-D7E5-21C79E467AAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713BE12D-E931-22A7-D7E5-21C79E467AAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713BE12D-E931-22A7-D7E5-21C79E467AAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6A653C-3D09-8279-11A9-4B1A365EA02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6A653C-3D09-8279-11A9-4B1A365EA02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6A653C-3D09-8279-11A9-4B1A365EA02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6A653C-3D09-8279-11A9-4B1A365EA02E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
